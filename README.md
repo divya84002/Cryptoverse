@@ -21,4 +21,4 @@ It helps users track market fluctuations and manage their crypto investments eff
 ## 🚀 How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/divya84002/divya84002
+   git clone https://github.com/divya84002/Cryptoverse
